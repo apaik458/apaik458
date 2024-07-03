@@ -1,16 +1,23 @@
-### Hi there 👋
+## Albert Paik
 
-<!--
-**apaik458/apaik458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate engineering student at the University of Auckland, and am currently working as a research assistant in the CARES lab. My interest is in robotic manipulation.
 
-Here are some ideas to get you started:
+CV [here](https://github.com/apaik458/apaik458/blob/main/resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="UoA-Logo-DarkBlue-4Col-Landscape.png" width="1000">
+
+## youBot Visual Servoing
+
+An image-based visual servoing application implemented on the KUKA youBot arm.
+
+Details in [repo](https://github.com/apaik458/youbot_visual_servo)
+
+<img src="youbot_arm.jpg" width="750">
+
+## Self-Balancing Robot
+
+A simple inverted pendulum robot controlled with a PID controller.
+
+Details in [repo](https://github.com/apaik458/self_balancing_robot)
+
+<img src="20240704_113138.jpg" width="750">
