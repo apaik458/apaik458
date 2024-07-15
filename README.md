@@ -12,12 +12,4 @@ An image-based visual servoing application implemented on the KUKA youBot arm.
 
 Details in [repo](https://github.com/apaik458/youbot_visual_servo)
 
-<img src="youbot_arm.jpg" width="750">
-
-# Self-Balancing Robot
-
-An inverted pendulum robot controlled with a PID controller.
-
-Details in [repo](https://github.com/apaik458/self_balancing_robot)
-
-<img src="20240704_113138.jpg" width="750">
+<img src="youbot_edit.gif" width="750">
