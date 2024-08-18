@@ -12,4 +12,15 @@ An image-based visual servoing application implemented on the KUKA youBot arm.
 
 Details in [repo](https://github.com/apaik458/youbot_visual_servo)
 
-<img src="youbot_edit.gif" width="750">
+<img src="https://github.com/apaik458/youbot_visual_servo/blob/main/youbot_edit.gif" width="750">
+
+# Realsense ArUCo Detection
+
+A package for running OpenCV ArUCo tag detection on Intel RealSense camera
+
+Details in [repo](https://github.com/apaik458/realsense_aruco)
+
+<p align="middle">
+  <img src="https://github.com/apaik458/realsense_aruco/blob/main/aruco_point.gif" width="45%">
+  <img src="https://github.com/apaik458/realsense_aruco/blob/main/aruco_pose.gif" width="45%">
+</p>
