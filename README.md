@@ -2,8 +2,6 @@
 
 I am an undergraduate engineering student at the University of Auckland, and am currently working as a research assistant in the CARES lab. My interest is in robotic manipulation.
 
-Link to resume [here](https://drive.google.com/file/d/1c72Rmh3LbG_9f6yCsoMUy0LMsDwc8G6B/view)
-
 <img src="UoA-Logo.png" width="1000">
 
 <br>
